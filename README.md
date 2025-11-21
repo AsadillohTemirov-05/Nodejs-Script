@@ -31,5 +31,5 @@ The script performs the following steps:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone git@github.com:AsadillohTemirov-05/Nodejs-Script.git
+cd Nodejs-Script
